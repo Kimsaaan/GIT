@@ -6,6 +6,9 @@ public class Main {
 
         System.out.println("Kimsan");
         System.out.println("Är bäst");
+        
+        System.out.println("...NOT!");
+        
 
 
 
